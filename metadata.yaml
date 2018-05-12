@@ -1,4 +1,5 @@
 _repo: The-Works-of-John-Dryden-Volume-18-of-18-Dialogue-concerning-Women-Characters-Life-of-Lucian-__50637
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -13,6 +14,9 @@ contributor:
       gutenberg_agent_id: '59'
       url: http://www.gutenberg.org/2009/agents/59
       wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+covers:
+- cover_type: archival
+  image_path: 50637-h/images/cover.jpg
 creator:
   author:
     agent_name: Dryden, John
@@ -22,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/807
     wikipedia: http://en.wikipedia.org/wiki/John_Dryden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50637#The-Works-of-John-Dryden-Volume-18-of-18-Dialogue-concerning-Women-Characters-Life-of-Lucian-_
 gutenberg_issued: '2015-12-07'
 gutenberg_type: Text
 identifiers:
